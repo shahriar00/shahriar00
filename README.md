@@ -11,7 +11,7 @@ I am a learner in Software Engineering. I highly interested in Software Developm
 
 ![Profile views](https://gpvc.arturio.dev/shahriar00)  
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriar00&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar00&" alt="shahriar00" /></p>
 
