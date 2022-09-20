@@ -11,7 +11,7 @@ I am a learner in Software Engineering. I highly interested in Software Developm
 
 ![Profile views](https://gpvc.arturio.dev/shahriar00)  
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shahriar00&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriar00&show_icons=true&theme=radical)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar00&" alt="shahriar00" /></p>
@@ -21,4 +21,5 @@ I am a learner in Software Engineering. I highly interested in Software Developm
 ![GitHub metrics](https://metrics.lecoq.io/shahriar00)  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahriar00)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shahriar00/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shahriar1.q)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shahriar_sazid_/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahriar00)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shahriar00/)
