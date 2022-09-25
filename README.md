@@ -13,7 +13,7 @@ I am a learner in Software Engineering. I highly interested in Software Developm
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriar00&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar00&show_icons=true&theme=algolia" alt="shahriar00" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar00&show_icons=true&theme=yellowdark" alt="shahriar00" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahriar00)  
 
