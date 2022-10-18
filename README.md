@@ -1,4 +1,4 @@
-![](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/307673007_565320372269964_6450778077148116030_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=8qsCPkYcxdoAX_MmgwD&_nc_ht=scontent.fdac135-1.fna&oh=00_AT_x97AxsQ5Q_CYAQYmcLmO1rjEiNqv3qcwOHgWLJXa1fA&oe=632E09D3)
+
 
 ### Hi! I am Sazid.
 
@@ -17,7 +17,6 @@ I am a learner in Software Engineering. I highly interested in Software Developm
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahriar00)  
 
-![GitHub metrics](https://metrics.lecoq.io/shahriar00)  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahriar00)
