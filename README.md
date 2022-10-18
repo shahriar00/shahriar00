@@ -1,8 +1,8 @@
 
 
-#### Hi! I am Sazid.
+## Hi! I am Sazid.
 
-I am a learner in Software Engineering. I highly interested in Software Development  and learning new Programming languages. I like to learn about new trending or upcoming technologies.
+###I am a learner in Software Engineering. I highly interested in Software Development  and learning new Programming languages. I like to learn about new trending or upcoming technologies.
 
 
 <h3 align="left">Languages and Tools:</h3>
