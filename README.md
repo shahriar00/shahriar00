@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar00&show_icons=true&theme=yellowdark" alt="shahriar00" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahriar00)  
+
 
 
 
