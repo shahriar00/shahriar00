@@ -16,7 +16,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar00&show_icons=true&theme=yellowdark" alt="shahriar00" /></p>
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahriar00)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar00)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahriar00)
