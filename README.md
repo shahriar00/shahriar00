@@ -2,7 +2,7 @@
 
 ## Hi! I am Sazid.
 
-### I am a learner in Software Engineering. I highly interested in Software Development and learning new trending technologies.
+### I develop software. Building effective, scalable, and user-friendly software that addresses real-world issues is something I'm enthusiastic about. I'm continuously experimenting with new technologies and techniques since I'm always searching for fresh challenges and chances to learn.In my spare time, I like to attend computer conferences and meetups and contribute to open source projects. I appreciate working with other developers to generate creative solutions because I believe in the power of collaboration.To view some of my most recent work, feel free to browse my repositories. Please get in touch if you have any inquiries or would want to work on a project together.
 
 
 <h3 align="left">Languages and Tools:</h3>
