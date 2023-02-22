@@ -13,7 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriar00&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar00&show_icons=true&theme=yellowdark" alt="shahriar00" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahriar00&theme=yellowdark)](https://git.io/streak-stats)
 
 
 
