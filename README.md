@@ -13,7 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriar00&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shahriar00&theme=yellowdark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahriar00&theme=yellowdark&hide_border=true)](https://git.io/streak-stats)
 
 
 
