@@ -10,15 +10,19 @@
 
 ![Profile views](https://gpvc.arturio.dev/shahriar00)  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shahriar00&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="start"><img src="https://github-readme-stats.vercel.app/api?username=shahriar00&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahriar00&theme=yellowdark&hide_border=true)](https://git.io/streak-stats)
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar00&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar00&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://linkedin.com/in/shahriar00" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahriar00)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shahriar00/)
+<a href="https://github.com/shahriar00" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
