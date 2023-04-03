@@ -10,7 +10,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/shahriar00)  
 
-<div align="start"><img src="https://github-readme-stats.vercel.app/api?username=shahriar00&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shahriar00&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahriar00&theme=yellowdark&hide_border=true)](https://git.io/streak-stats)
 
