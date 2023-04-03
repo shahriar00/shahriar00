@@ -30,6 +30,8 @@
 </br>
 
 
+<img src="https://raw.githubusercontent.com/shahriar00/shahriar00/blob/output/snake.svg" alt="Snake animation" />
+
 
 
 
