@@ -13,7 +13,7 @@
 
 
 ## 📊 GitHub Stats:
-![shahriar00's Stats](https://github-readme-stats.vercel.app/api?username=shahriar00&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![shahriar00's Stats](https://github-readme-stats.vercel.app/api?username=shahriar00&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahriar00&theme=yellowdark&hide_border=true)](https://git.io/streak-stats)
@@ -21,7 +21,7 @@
 
 
 ## 📊 Used Languages:
-![shahriar00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar00&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![shahriar00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar00&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 
 
