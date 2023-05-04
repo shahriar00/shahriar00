@@ -13,7 +13,7 @@
 
 
 ## 📊 GitHub Stats:
-![shahriar00's Stats](https://github-readme-stats.vercel.app/api?username=shahriar00&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriar00&show_icons=true&theme=radical)
 
 
 
