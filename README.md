@@ -12,8 +12,8 @@
 ![Profile views](https://gpvc.arturio.dev/shahriar00)  
 
 
-<!-- ## 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriar00&show_icons=true&theme=radical) -->
+## 📊 GitHub Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriar00&show_icons=true&theme=radical)
 
 
 
