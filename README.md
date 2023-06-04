@@ -9,7 +9,7 @@
 
 
 
-![Profile views](https://gpvc.arturio.dev/shahriar00)  
+<!-- ![Profile views](https://gpvc.arturio.dev/shahriar00)   -->
 
 
 ## 📊 GitHub Stats:
