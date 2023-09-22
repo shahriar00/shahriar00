@@ -1,5 +1,4 @@
 
-
 ## Hi! I am Sazid.
 
 #### I'm a passionate Flutter developer and dedicated enthusiast in the world of Machine Learning. With a background in creating sleek and user-friendly applications using Flutter, I thrive on bringing creative ideas to life through coding. My enthusiasm for Machine Learning fuels my desire to explore and implement innovative AI solutions that can make a positive impact.
@@ -9,7 +8,7 @@
 
 
 
-<!-- ![Profile views](https://gpvc.arturio.dev/shahriar00)   -->
+
 
 
 ## 📊 GitHub Stats:
