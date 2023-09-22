@@ -21,7 +21,7 @@
 
 
 ## 📊 Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar00&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
